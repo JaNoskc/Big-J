@@ -7,6 +7,11 @@ body{
     color:white;
 }
 img{
-    height: 200px;
+    height: 400px;
     width:fit-content
+}
+header{
+    text-align: center;
+    font-size: 30px;
+
 }
