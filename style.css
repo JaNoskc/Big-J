@@ -34,3 +34,7 @@ ul{
     border-width: 3px;
     padding: 10px;
 }
+marquee{
+    font-size:12px;
+    color:aqua;
+}
