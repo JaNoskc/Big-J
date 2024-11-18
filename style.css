@@ -26,3 +26,6 @@ li:hover{
     color:rgb(255, 94, 0);
     transition: 0.5s;
 }
+li:active{
+    color:goldenrod;
+}
