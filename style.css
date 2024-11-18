@@ -21,11 +21,16 @@ header{
     margin-right: auto;
     text-align: center;
 }
-li:hover{
+li:hover a:hover{ 
     font-size: 20px;
     color:rgb(255, 94, 0);
     transition: 0.5s;
 }
 li:active{
     color:goldenrod;
+}
+ul{
+    border-style: inset;
+    border-width: 3px;
+    padding: 10px;
 }
