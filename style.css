@@ -29,6 +29,9 @@ li:hover a:hover{
 li:active{
     color:goldenrod;
 }
+a:visited{
+    color:crimson;
+}
 ul{
     border-style: inset;
     border-width: 3px;
