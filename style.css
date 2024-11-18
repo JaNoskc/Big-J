@@ -21,3 +21,8 @@ header{
     margin-right: auto;
     width: 50%;
 }
+li:hover{
+    font-size: 20px;
+    color:rgb(255, 94, 0);
+    transition: 0.5s;
+}
