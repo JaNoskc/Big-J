@@ -71,7 +71,7 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
-    border-style: double;
+    border-style: solid;
     border-image: linear-gradient(to right, red, yellow);
     border-width: 2px;
     border-spacing: 0.1px;
