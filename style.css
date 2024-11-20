@@ -32,6 +32,9 @@ li:active{
 a:visited{
     color:crimson;
 }
+a:link{
+    color:goldenrod;
+}
 ul{
     border-style: inset;
     border-width: 1.5px;
@@ -47,4 +50,8 @@ footer{
     width:100%;
     background-image: linear-gradient(to right, red , yellow);
     color:black;
+}
+main{
+    padding:5px;
+
 }
