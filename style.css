@@ -58,3 +58,6 @@ main{
     border-color: firebrick;
     border-spacing: 1px;
 }
+p{
+    text-align: center;
+}
