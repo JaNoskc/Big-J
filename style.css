@@ -53,5 +53,8 @@ footer{
 }
 main{
     padding:5px;
-
+    border-style:ridge;
+    border-width: 2px;
+    border-color: firebrick;
+    border-spacing: 1px;
 }
