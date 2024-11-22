@@ -77,7 +77,11 @@ img{
     border-spacing: 0.1px;
     border-image-slice: 1;
 }
-ol img{
+.ahhh{
     width:200px;
     height:fit-content;
+}
+ol li{
+    font-size:24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
