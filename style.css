@@ -88,7 +88,7 @@ ol li{
 #jj, #sr{
     padding-bottom: 5px;
 }
-.border{
+#border{
     border-style: solid;
     border-image: linear-gradient(to right, red, yellow);
     border-width: 2px;
