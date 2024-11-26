@@ -93,4 +93,5 @@ ol li{
     border-image: linear-gradient(to right, red, yellow);
     border-width: 2px;
     border-spacing: 1px;
+    border-image-slice: 1;
 }
