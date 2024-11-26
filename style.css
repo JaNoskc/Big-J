@@ -86,7 +86,7 @@ ol li{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #jj, #sr{
-    padding-bottom: 5px;
+    margin-bottom: 5px;
 }
 #border{
     border-style: solid;
