@@ -92,5 +92,5 @@ ol li{
     border-style: solid;
     border-image: linear-gradient(to right, red, yellow);
     border-width: 2px;
-    border-spacing: 0.1px;
+    border-spacing: 1px;
 }
