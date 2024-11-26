@@ -88,3 +88,9 @@ ol li{
 #jj, #sr{
     padding-bottom: 5px;
 }
+.border{
+    border-style: solid;
+    border-image: linear-gradient(to right, red, yellow);
+    border-width: 2px;
+    border-spacing: 0.1px;
+}
