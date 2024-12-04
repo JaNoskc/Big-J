@@ -103,7 +103,7 @@ ol li{
     border-spacing: 1px;
     border-image-slice: 1;
     font-size:x-large;
-    background-image: linear-gradient(orange, yellow);
+    background-image: linear-gradient(orange, white);
     color: transparent;
     background-clip: text;
 }
