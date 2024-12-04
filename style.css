@@ -39,6 +39,7 @@ ul{
     border-style: inset;
     border-width: 1.5px;
     padding: 10px;
+    list-style-position: inside;
 }
 marquee{
     font-size:12px;
@@ -94,4 +95,15 @@ ol li{
     border-width: 2px;
     border-spacing: 1px;
     border-image-slice: 1;
+}
+.unique{
+    border-style: solid;
+    border-image: linear-gradient(to right, red, yellow);
+    border-width: 2px;
+    border-spacing: 1px;
+    border-image-slice: 1;
+    font-size:x-large;
+    background-image: linear-gradient(black, orange);
+    color: transparent;
+    background-clip: text;
 }
