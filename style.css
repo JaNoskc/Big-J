@@ -108,6 +108,6 @@ ol li{
     background-clip: text;
 }
 img:hover{
-    height:150%;
+    height:50%;
     transition: 2s;
 }
