@@ -29,6 +29,9 @@ li:hover a:hover{
 li:active{
     color:goldenrod;
 }
+li:hover{
+    color:darkred;
+}
 a:visited{
     color:crimson;
 }
